@@ -216,7 +216,7 @@ h2:after {
 .text-box-beige1 {
     display: flex;
     background-color: #f6f5F2;
-    position: cover;
+    
     width: 100%;
     background-position: center;
     height: 400px;
