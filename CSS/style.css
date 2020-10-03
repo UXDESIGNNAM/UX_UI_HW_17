@@ -215,13 +215,12 @@ h2:after {
 
 .text-box-beige1 {
     display: flex;
-    background-color: #f6f5F2;
-    
-    width: 100%;
+    background-color: #f6f5f2;
+    width: 100vw;
+    border: 1px solid red;
     background-position: center;
     height: 400px;
-    margin-top: 175px; 
-    margin-bottom:200px; 
+    margin-top: 100vh;  
 }
 
 .box {
